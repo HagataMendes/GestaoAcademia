@@ -2,7 +2,7 @@ package models;
 
 import java.util.ArrayList;
 
-class Academia {
+public class Academia {
 
      private String nomeAcademia;
      private ArrayList<Pessoa> pessoas;

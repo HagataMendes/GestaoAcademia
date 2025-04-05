@@ -1,6 +1,6 @@
 package models;
 
-class Cliente extends Pessoa {
+public class Cliente extends Pessoa {
     private String planoCliente;
 
     public Cliente(String nome, int idade, String plano) {
